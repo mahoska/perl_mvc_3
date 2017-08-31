@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<configuration>
+<dbName>user1</dbName>
+<dbHost>localhost</dbHost>
+<dbUser>root</dbUser>
+<dbPassword></dbPassword>
+</configuration>
